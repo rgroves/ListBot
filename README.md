@@ -217,14 +217,14 @@ To connect on:
         <a href="https://github.com/ValentiMS">
             <img src="https://avatars0.githubusercontent.com/u/30903958?v=4" width="100;" alt="ValentiMS"/>
             <br />
-            <sub><b>Valentí Martín</b></sub>
+            <sub><b>ValentC- MartC-n</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/XysID">
-            <img src="https://avatars0.githubusercontent.com/u/71617416?v=4" width="100;" alt="XysID"/>
+        <a href="https://github.com/Xyszx">
+            <img src="https://avatars0.githubusercontent.com/u/71617416?v=4" width="100;" alt="Xyszx"/>
             <br />
-            <sub><b>Xys</b></sub>
+            <sub><b>ArsenDevX</b></sub>
         </a>
     </td></tr>
 <tr>
@@ -300,17 +300,17 @@ To connect on:
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Sh1710">
-            <img src="https://avatars2.githubusercontent.com/u/72331454?v=4" width="100;" alt="Sh1710"/>
-            <br />
-            <sub><b>Sh1710</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Toshiuk">
             <img src="https://avatars1.githubusercontent.com/u/8109770?v=4" width="100;" alt="Toshiuk"/>
             <br />
             <sub><b>Toshiuk</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/arthur-merlin">
+            <img src="https://avatars2.githubusercontent.com/u/72411685?v=4" width="100;" alt="arthur-merlin"/>
+            <br />
+            <sub><b>arthur-merlin</b></sub>
         </a>
     </td></tr>
 </table>
