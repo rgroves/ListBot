@@ -310,7 +310,7 @@ To connect on:
         <a href="https://github.com/arthur-merlin">
             <img src="https://avatars2.githubusercontent.com/u/72411685?v=4" width="100;" alt="arthur-merlin"/>
             <br />
-            <sub><b>arthur-merlin</b></sub>
+            <sub><b>Arthur-merlin</b></sub>
         </a>
     </td></tr>
 </table>
